@@ -7,6 +7,7 @@
 - В папке  IncorrectTests содержатся тесты, которые должны выполняться с ошибкой.
 ***
 ## Запуск на Windows (компиляция программы с помощью mingw):
+Если у вас не установлен mingw, то вот ссылка видео на YouTube, где показана установка mingw https://www.youtube.com/watch?v=MLYNMxUDDRk<br>
 Запускаем __Windows PowerShell__ и переходим в папку с проектом, выполняем следующую команду:
 ```
 g++ main.cpp -o task.exe
